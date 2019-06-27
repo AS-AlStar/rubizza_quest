@@ -2,9 +2,8 @@ full_name: "Alexander Starovojtov"
 
 age: 21
 
-contacts:
-  phone_number: +375297024661
-  email: "starovojtov.alexander@gmail.com"
+phone_number: +375297024661
+email: "starovojtov.alexander@gmail.com"
 
 social:
   github: "AS-AlStar"
@@ -21,7 +20,7 @@ education:
   - department Information and Computer-Aided Systems Design
   - 2015-2019
 
-have_a_job: no
+have_a_job: no, I don't have a job
 
 english: Pre-Intermediate
 
